@@ -1,6 +1,6 @@
 <h1 align="center"> Cartão de Visitas</h1>
 
-<div style="text-align:center">
+<div align="center">
   <img src="./assets/img-readme.png" align="center">
 </div>
 
